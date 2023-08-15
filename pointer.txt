@@ -1,0 +1,1 @@
+pointers == are variables that store address of another variable 
